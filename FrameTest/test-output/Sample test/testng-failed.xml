@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Sample test]">
+  <test name="Login Test With Invalid Credentials(failed)">
+    <classes>
+      <class name="uk.co.capita.advantagecontractor.tests.LoginWithInvalidCredTest">
+        <methods>
+          <include name="sendMail"/>
+          <include name="isEnvUp"/>
+          <include name="tearDown"/>
+          <include name="loginWithInvalidCredTest"/>
+        </methods>
+      </class> <!-- uk.co.capita.advantagecontractor.tests.LoginWithInvalidCredTest -->
+    </classes>
+  </test> <!-- Login Test With Invalid Credentials(failed) -->
+</suite> <!-- Failed suite [Sample test] -->

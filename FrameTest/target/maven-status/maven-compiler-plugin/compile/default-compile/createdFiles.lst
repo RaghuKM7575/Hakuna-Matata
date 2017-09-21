@@ -1,0 +1,8 @@
+uk\co\capita\advantagecontractor\util\ProjectConstants.class
+uk\co\capita\advantagecontractor\util\Xls_Reader.class
+uk\co\capita\advantagecontractor\basepage\BasePage.class
+uk\co\capita\advantagecontractor\util\ExtentManager.class
+uk\co\capita\advantagecontractor\util\DataUtil.class
+uk\co\capita\advantagecontractor\pages\LoginPage.class
+uk\co\capita\advantagecontractor\pages\LaunchPage.class
+uk\co\capita\advantagecontractor\pages\sessionpages\LandingPage.class
